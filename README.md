@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chuckleboy
 - 👀 I’m interested in GODOT
-- 🌱 I’m currently learning gaming
+- 🌱 I’m currently learning Gaming
 - 💞️ I’m looking to collaborate on Workbased Gamification
 - 📫 How to reach me ?github?
 - 😄 Pronouns: ...
